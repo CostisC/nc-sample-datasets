@@ -1,0 +1,1000 @@
+codelist_id,codelist_description,item_id,item_description
+1,Categories,C2,Notification
+1,Categories,C3,Reference
+1,Categories,C1,Configuration
+1,Categories,C4,Read Service
+1,Categories,C5,Input Form
+2,Regimes,IRM,IRM
+2,Regimes,PSRM,PSRM
+2,Regimes,XSD,XSD
+2,Regimes,TXSS,TXSS
+3,Please Select Option,EN,Please Select
+4,Boolean Condition,0,No
+4,Boolean Condition,1,Yes
+10000,List of objects capturing a (natural) language spoken or written encoded by the 2 digit ISO 639-2 standard language name code list,fr,French
+10000,List of objects capturing a (natural) language spoken or written encoded by the 2 digit ISO 639-2 standard language name code list,nl,Dutch
+10000,List of objects capturing a (natural) language spoken or written encoded by the 2 digit ISO 639-2 standard language name code list,pt,Portuguese
+10000,List of objects capturing a (natural) language spoken or written encoded by the 2 digit ISO 639-2 standard language name code list,de,German
+10000,List of objects capturing a (natural) language spoken or written encoded by the 2 digit ISO 639-2 standard language name code list,en,English
+10001,List of objects representing the type of legal status (of a economic operator),1,Regular
+10001,List of objects representing the type of legal status (of a economic operator),3,Bankrupt
+10001,List of objects representing the type of legal status (of a economic operator),2,Suspension of payment (filed for bankruptcy)
+10002,List of objects capturing the type of role a location plays in association with another List of objects (defined and maintained by UNTDID: 3227),65,Final port or place of discharge
+10002,List of objects capturing the type of role a location plays in association with another List of objects (defined and maintained by UNTDID: 3227),14,Goods item storage location
+10002,List of objects capturing the type of role a location plays in association with another List of objects (defined and maintained by UNTDID: 3227),9,Place of loading
+10002,List of objects capturing the type of role a location plays in association with another List of objects (defined and maintained by UNTDID: 3227),11,Place of unloading
+10003,List of objects representing the qualifier of a measurement unit (defined by TARIC and maintained by Arctic/Tariff),B,Per Flask
+10003,List of objects representing the qualifier of a measurement unit (defined by TARIC and maintained by Arctic/Tariff),G,Gross
+10003,List of objects representing the qualifier of a measurement unit (defined by TARIC and maintained by Arctic/Tariff),T,Dry lactic matter
+10003,List of objects representing the qualifier of a measurement unit (defined by TARIC and maintained by Arctic/Tariff),R,raw sugar with a yield of 92%
+10003,List of objects representing the qualifier of a measurement unit (defined by TARIC and maintained by Arctic/Tariff),F,Common wheat
+10003,List of objects representing the qualifier of a measurement unit (defined by TARIC and maintained by Arctic/Tariff),L,Live weight
+10003,List of objects representing the qualifier of a measurement unit (defined by TARIC and maintained by Arctic/Tariff),S,White sugar
+10003,List of objects representing the qualifier of a measurement unit (defined by TARIC and maintained by Arctic/Tariff),D,Per 1% by weight of sucrose or extractable sugar
+10003,List of objects representing the qualifier of a measurement unit (defined by TARIC and maintained by Arctic/Tariff),Z,Per 1% by weight of sucrose
+10003,List of objects representing the qualifier of a measurement unit (defined by TARIC and maintained by Arctic/Tariff),C,1 000
+10003,List of objects representing the qualifier of a measurement unit (defined by TARIC and maintained by Arctic/Tariff),E,Net drained weight
+10003,List of objects representing the qualifier of a measurement unit (defined by TARIC and maintained by Arctic/Tariff),P,Lactic matter
+10003,List of objects representing the qualifier of a measurement unit (defined by TARIC and maintained by Arctic/Tariff),A,Total alcohol
+10003,List of objects representing the qualifier of a measurement unit (defined by TARIC and maintained by Arctic/Tariff),J,"Fuel content (usually in form of tallow, stearin, paraffin wax or other waxes, including the wick)"
+10003,List of objects representing the qualifier of a measurement unit (defined by TARIC and maintained by Arctic/Tariff),X,Hectolitre
+10003,List of objects representing the qualifier of a measurement unit (defined by TARIC and maintained by Arctic/Tariff),M,Net dry matter
+10003,List of objects representing the qualifier of a measurement unit (defined by TARIC and maintained by Arctic/Tariff),I,Biodiesel content
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,KP,kg P@2O@5
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,KCC,kg C@5H@1@4
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,CCT,ct/l
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,KPH,kg KOH
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,GFI,gi F/S
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,NCL,ce/el
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,MWH,1000 kWh
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,GRT,GT
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,KMT,Kilometre
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,DHS,kg DHS
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,CTM,c/k Carats
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,KSH,kg NaOH
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,KNS,kg H@2O@2
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,KMA,kg methylamines
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,TJO,TJ
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,KGM,kg
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,KUR,kg U
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,CEN,100 p/st
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,TNE,1000 kg
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,LTR,l
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,DTN,100 kg
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,LPA,l alc.
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,HMT,100 m
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,MTQ,m$3
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,DKK,Danish Krone
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,MMR,mm
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,GRM,g
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,MPR,1000 pa
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,MTK,m$2
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,HLT,hl
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,NPR,pa
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,KPO,kg K@2O
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,KSD,kg 90% sdt
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,ASV,% vol
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,KCL,tonne KCl
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,MTR,m
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,P1,pct
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,MTC,1000 m$3
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,CMR,cm
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,KLT,1000 l
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,EUR,EUR
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,MIL,1000 p/st
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,KNI,kg N
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,ETN,EUR / 100 kg
+10004,List of objects capturing the type of unit in which a measurement is expressed encoded according to UN/ECE Recommendation No.20,NAR,p/st
+10005,List of objects representing a type of a mode of data entry,1,Manually entered
+10005,List of objects representing a type of a mode of data entry,2,Electronically received
+10005,List of objects representing a type of a mode of data entry,3,Verbal
+10006,List of objects representing a possible value of the AdditionalInformation of type 'ZZZ' being mutually defined special mention types.,C2,no supplement
+10006,List of objects representing a possible value of the AdditionalInformation of type 'ZZZ' being mutually defined special mention types.,C1,Extension request
+10006,List of objects representing a possible value of the AdditionalInformation of type 'ZZZ' being mutually defined special mention types.,100,Simplified Authorization
+10007,List of objects representing the type of notification sent to a trader,CWMGER,Notification reminding the submitter that Exit Results have not yet been received
+10007,List of objects representing the type of notification sent to a trader,CWMCPR,Notification informing the submitter that a payup deadline has expired
+10007,List of objects representing the type of notification sent to a trader,CWMTAX,Message with which the declarant or his representative is informed about the details of the customs debt
+10007,List of objects representing the type of notification sent to a trader,CWMDOC,"Notification telling the submitter that he has to present one or more documents, related to the declaration. The notification is also used to remind the submitter about a document that had to be submitted already"
+10007,List of objects representing the type of notification sent to a trader,CWMRCV,"Notification informing the submitter that a received message (declaration, additional message) is received"
+10007,List of objects representing the type of notification sent to a trader,CWMREJ,"Notification informing the submitter that a received message (declaration, additional message) is rejected"
+10007,List of objects representing the type of notification sent to a trader,CWMINV,"Notification informing the submitter about the invalidating of a declaration, with the reason of invalidation"
+10007,List of objects representing the type of notification sent to a trader,CWMEXT,Notification informing the submitter about handling the declaration externally
+10007,List of objects representing the type of notification sent to a trader,CWMINC,Notification reminding the submitter that an incomplete declaration must be supplemented with the missing or incomplete elements of the incomplete declaration
+10007,List of objects representing the type of notification sent to a trader,CWMREQ,Notification informing the submitter about the customs position on the submitted request (granted or denied). In case of denial the reason for denial is indicated (text field)
+10007,List of objects representing the type of notification sent to a trader,CWMCLE,"Notification informing the submitter about the clearance for the procedure, and therefore also about the release of the goods (if this has not already been done)"
+10007,List of objects representing the type of notification sent to a trader,CWMROG,Notification informing the submitter that the goods can be released
+10007,List of objects representing the type of notification sent to a trader,CWMCTL,"Notification informing the submitter that that Customs intends to physically inspect goods that belong to the declaration, which also implies that these goods can not be released"
+10007,List of objects representing the type of notification sent to a trader,CWMCPI,Notification informing the submitter about the need for the Financial Responsible Party must pay up a cash deposit or a lacking guarantee
+10007,List of objects representing the type of notification sent to a trader,CWMNCN,Notification informing the submitter that that Customs will perform no control for the notice
+10007,List of objects representing the type of notification sent to a trader,CWMACC,Notification informing the submitter that a received declaration is accepted
+10007,List of objects representing the type of notification sent to a trader,CWMEOG,Notification informing the submitter about goods exit
+10007,List of objects representing the type of notification sent to a trader,CWMRES,Notification informing the trader about corrections that have been applied to the declaration
+10007,List of objects representing the type of notification sent to a trader,CWMTIM,Notification informing the submitter about timer extension.
+10007,List of objects representing the type of notification sent to a trader,CWMSPM,Notification informing  about Special Procedure Timer Expiration.
+10007,List of objects representing the type of notification sent to a trader,CWMMAC,Notification informing the submitter that a received declaration is pending manual approval decision
+10007,List of objects representing the type of notification sent to a trader,CWMWTR,Notification informing the submitter that a work task is rejected
+10007,List of objects representing the type of notification sent to a trader,CWMQTA,Notification of QuoTa Assessment
+10008,List of objects representing the type of action a user can take with regards to an observation,2,Use Observed
+10008,List of objects representing the type of action a user can take with regards to an observation,4,Use Corrected
+10008,List of objects representing the type of action a user can take with regards to an observation,1,Use Original
+10008,List of objects representing the type of action a user can take with regards to an observation,5,New Seal
+10008,List of objects representing the type of action a user can take with regards to an observation,3,Not Controlled
+10009,List of objects capturing the type of opposition a declaration may have launched against a control result,1,Agreed
+10009,List of objects capturing the type of opposition a declaration may have launched against a control result,2,Opposed
+10009,List of objects capturing the type of opposition a declaration may have launched against a control result,3,Not registered
+10009,List of objects capturing the type of opposition a declaration may have launched against a control result,4,No advice needed
+10010,List of objects representing the type of a package defined and maintained by the EU,BI,Bin
+10010,List of objects representing the type of a package defined and maintained by the EU,VG,"Bulk, gas (at 1031 mbar and 15Â°C)"
+10010,List of objects representing the type of a package defined and maintained by the EU,VP,Vacuum-packed
+10010,List of objects representing the type of a package defined and maintained by the EU,SD,Spindle
+10010,List of objects representing the type of a package defined and maintained by the EU,JY,"Jerrican, cylindrical"
+10010,List of objects representing the type of a package defined and maintained by the EU,BP,"Balloon, protected"
+10010,List of objects representing the type of a package defined and maintained by the EU,MX,Match box
+10010,List of objects representing the type of a package defined and maintained by the EU,BA,Barrel
+10010,List of objects representing the type of a package defined and maintained by the EU,JT,Jutebag
+10010,List of objects representing the type of a package defined and maintained by the EU,VR,"""Bulk, solid, granular particles (""""""""grains"""""""")"""
+10010,List of objects representing the type of a package defined and maintained by the EU,BQ,"Bottle, protected cylindrical"
+10010,List of objects representing the type of a package defined and maintained by the EU,TR,Trunk
+10010,List of objects representing the type of a package defined and maintained by the EU,DJ,"Demijohn, non-protected"
+10010,List of objects representing the type of a package defined and maintained by the EU,HR,Hamper
+10010,List of objects representing the type of a package defined and maintained by the EU,AM,"Ampoule, non-protected"
+10010,List of objects representing the type of a package defined and maintained by the EU,IZ,"Ingots, in bundle/bunch/truss"
+10010,List of objects representing the type of a package defined and maintained by the EU,BY,"Board, in bundle/bunch/truss"
+10010,List of objects representing the type of a package defined and maintained by the EU,TO,Tun
+10010,List of objects representing the type of a package defined and maintained by the EU,BO,"Bottle, non-protected, cylindrical"
+10010,List of objects representing the type of a package defined and maintained by the EU,NS,Nest
+10010,List of objects representing the type of a package defined and maintained by the EU,MS,Multiwall sack
+10010,List of objects representing the type of a package defined and maintained by the EU,PL,Pail
+10010,List of objects representing the type of a package defined and maintained by the EU,SA,Sack
+10010,List of objects representing the type of a package defined and maintained by the EU,PV,"Pipes, in bundle/bunch/truss"
+10010,List of objects representing the type of a package defined and maintained by the EU,PG,Plate
+10010,List of objects representing the type of a package defined and maintained by the EU,SE,Sea-chest
+10010,List of objects representing the type of a package defined and maintained by the EU,DP,"Demijohn, protected"
+10010,List of objects representing the type of a package defined and maintained by the EU,TS,Truss
+10010,List of objects representing the type of a package defined and maintained by the EU,CK,Cask
+10010,List of objects representing the type of a package defined and maintained by the EU,PU,Tray/Tray Pack
+10010,List of objects representing the type of a package defined and maintained by the EU,VI,Vial
+10010,List of objects representing the type of a package defined and maintained by the EU,VQ,"Bulk, liquefied gas (at abnormal temperature/pressure)"
+10010,List of objects representing the type of a package defined and maintained by the EU,TU,Tube
+10010,List of objects representing the type of a package defined and maintained by the EU,CR,Crate
+10010,List of objects representing the type of a package defined and maintained by the EU,SL,Slipsheet
+10010,List of objects representing the type of a package defined and maintained by the EU,PC,Parcel
+10010,List of objects representing the type of a package defined and maintained by the EU,SK,Skeleton case
+10010,List of objects representing the type of a package defined and maintained by the EU,JR,Jar
+10010,List of objects representing the type of a package defined and maintained by the EU,BK,Basket
+10010,List of objects representing the type of a package defined and maintained by the EU,PK,Package
+10010,List of objects representing the type of a package defined and maintained by the EU,PH,Pitcher
+10010,List of objects representing the type of a package defined and maintained by the EU,BC,"Bottlecrate, bottlerack"
+10010,List of objects representing the type of a package defined and maintained by the EU,FC,Fruit crate
+10010,List of objects representing the type of a package defined and maintained by the EU,SW,Shrinkwrapped
+10010,List of objects representing the type of a package defined and maintained by the EU,CJ,Coffin
+10010,List of objects representing the type of a package defined and maintained by the EU,RO,Roll
+10010,List of objects representing the type of a package defined and maintained by the EU,BN,"Bale, non-compressed"
+10010,List of objects representing the type of a package defined and maintained by the EU,CG,Cage
+10010,List of objects representing the type of a package defined and maintained by the EU,FL,Flask
+10010,List of objects representing the type of a package defined and maintained by the EU,AP,"Ampoule, protected"
+10010,List of objects representing the type of a package defined and maintained by the EU,JG,Jug
+10010,List of objects representing the type of a package defined and maintained by the EU,CZ,Canvas
+10010,List of objects representing the type of a package defined and maintained by the EU,TY,"Tank, cylindrical"
+10010,List of objects representing the type of a package defined and maintained by the EU,CC,Churn
+10010,List of objects representing the type of a package defined and maintained by the EU,MB,Multiply bag
+10010,List of objects representing the type of a package defined and maintained by the EU,SH,Sachet
+10010,List of objects representing the type of a package defined and maintained by the EU,BS,"Bottle, non-protected, bulbous"
+10010,List of objects representing the type of a package defined and maintained by the EU,CI,Canister
+10010,List of objects representing the type of a package defined and maintained by the EU,BE,Bundle
+10010,List of objects representing the type of a package defined and maintained by the EU,BL,"Bale, compressed"
+10010,List of objects representing the type of a package defined and maintained by the EU,VO,"""Bulk, solid, large particles (""""""""nodules"""""""")"""
+10010,List of objects representing the type of a package defined and maintained by the EU,CE,Creel
+10010,List of objects representing the type of a package defined and maintained by the EU,CB,Beer crate
+10010,List of objects representing the type of a package defined and maintained by the EU,FO,Footlocker
+10010,List of objects representing the type of a package defined and maintained by the EU,CV,Cover
+10010,List of objects representing the type of a package defined and maintained by the EU,PI,Pipe
+10010,List of objects representing the type of a package defined and maintained by the EU,HG,Hogshead
+10010,List of objects representing the type of a package defined and maintained by the EU,SU,Suitcase
+10010,List of objects representing the type of a package defined and maintained by the EU,PN,Plank
+10010,List of objects representing the type of a package defined and maintained by the EU,GZ,"Girders, in bundle/bunch/truss"
+10010,List of objects representing the type of a package defined and maintained by the EU,DR,Drum
+10010,List of objects representing the type of a package defined and maintained by the EU,VY,"""Bulk, solid, fine particles (""""""""powders"""""""")"""
+10010,List of objects representing the type of a package defined and maintained by the EU,CF,Coffer
+10010,List of objects representing the type of a package defined and maintained by the EU,TC,Tea-chest
+10010,List of objects representing the type of a package defined and maintained by the EU,FP,Filmpack
+10010,List of objects representing the type of a package defined and maintained by the EU,NE,Unpacked or unpackaged
+10010,List of objects representing the type of a package defined and maintained by the EU,VA,Vat
+10010,List of objects representing the type of a package defined and maintained by the EU,CY,Cylinder
+10010,List of objects representing the type of a package defined and maintained by the EU,KG,Keg
+10010,List of objects representing the type of a package defined and maintained by the EU,CX,"Can, cylindrical"
+10010,List of objects representing the type of a package defined and maintained by the EU,PO,Pouch
+10010,List of objects representing the type of a package defined and maintained by the EU,JC,"Jerrican, rectangular"
+10010,List of objects representing the type of a package defined and maintained by the EU,MT,Mat
+10010,List of objects representing the type of a package defined and maintained by the EU,CA,"Can, rectangular"
+10010,List of objects representing the type of a package defined and maintained by the EU,VL,"Bulk, liquid"
+10010,List of objects representing the type of a package defined and maintained by the EU,BH,Bunch
+10010,List of objects representing the type of a package defined and maintained by the EU,BV,"Bottle, protected bulbous"
+10010,List of objects representing the type of a package defined and maintained by the EU,FD,Framed crate
+10010,List of objects representing the type of a package defined and maintained by the EU,RG,Ring
+10010,List of objects representing the type of a package defined and maintained by the EU,TZ,"Tubes, in bundle/bunch/truss"
+10010,List of objects representing the type of a package defined and maintained by the EU,TB,Tub
+10010,List of objects representing the type of a package defined and maintained by the EU,BT,Bolt
+10010,List of objects representing the type of a package defined and maintained by the EU,TK,"Tank, rectangular"
+10010,List of objects representing the type of a package defined and maintained by the EU,BU,Butt
+10010,List of objects representing the type of a package defined and maintained by the EU,GB,Gas bottle
+10010,List of objects representing the type of a package defined and maintained by the EU,SZ,"Sheets, in bundle/bunch/truss"
+10010,List of objects representing the type of a package defined and maintained by the EU,FR,Frame
+10010,List of objects representing the type of a package defined and maintained by the EU,CO,"Carboy, non-protected"
+10010,List of objects representing the type of a package defined and maintained by the EU,BD,Board
+10010,List of objects representing the type of a package defined and maintained by the EU,CH,Chest
+10010,List of objects representing the type of a package defined and maintained by the EU,TN,Tin
+10010,List of objects representing the type of a package defined and maintained by the EU,IN,Ingot
+10010,List of objects representing the type of a package defined and maintained by the EU,PT,Pot
+10010,List of objects representing the type of a package defined and maintained by the EU,RT,Rednet
+10010,List of objects representing the type of a package defined and maintained by the EU,LG,Log
+10010,List of objects representing the type of a package defined and maintained by the EU,AT,Atomizer
+10010,List of objects representing the type of a package defined and maintained by the EU,ST,Sheet
+10010,List of objects representing the type of a package defined and maintained by the EU,RD,Rod
+10010,List of objects representing the type of a package defined and maintained by the EU,SC,Shallow crate
+10010,List of objects representing the type of a package defined and maintained by the EU,CP,"Carboy, protected"
+10010,List of objects representing the type of a package defined and maintained by the EU,BR,Bar
+10010,List of objects representing the type of a package defined and maintained by the EU,CS,Case
+10010,List of objects representing the type of a package defined and maintained by the EU,BB,Bobbin
+10010,List of objects representing the type of a package defined and maintained by the EU,CL,Coil
+10010,List of objects representing the type of a package defined and maintained by the EU,MC,Milk crate
+10010,List of objects representing the type of a package defined and maintained by the EU,BX,Box
+10010,List of objects representing the type of a package defined and maintained by the EU,PY,"Plates, in bundle/bunch/truss"
+10010,List of objects representing the type of a package defined and maintained by the EU,GI,Girder
+10010,List of objects representing the type of a package defined and maintained by the EU,TD,"Tube, collapsible"
+10010,List of objects representing the type of a package defined and maintained by the EU,BZ,"Bars, in bundle/bunch/truss"
+10010,List of objects representing the type of a package defined and maintained by the EU,EN,Envelope
+10010,List of objects representing the type of a package defined and maintained by the EU,BF,"Balloon, non-protected"
+10010,List of objects representing the type of a package defined and maintained by the EU,RL,Reel
+10010,List of objects representing the type of a package defined and maintained by the EU,BG,Bag
+10010,List of objects representing the type of a package defined and maintained by the EU,SM,Sheetmetal
+10010,List of objects representing the type of a package defined and maintained by the EU,FI,Firkin
+10010,List of objects representing the type of a package defined and maintained by the EU,NT,Net
+10010,List of objects representing the type of a package defined and maintained by the EU,CU,Cup
+10010,List of objects representing the type of a package defined and maintained by the EU,LZ,"Logs, in bundle/bunch/truss"
+10010,List of objects representing the type of a package defined and maintained by the EU,WB,Wickerbottle
+10010,List of objects representing the type of a package defined and maintained by the EU,BJ,Bucket
+10010,List of objects representing the type of a package defined and maintained by the EU,CT,Carton
+10010,List of objects representing the type of a package defined and maintained by the EU,RZ,"Rods, in bundle/bunch/truss"
+10010,List of objects representing the type of a package defined and maintained by the EU,AE,Aerosol
+10010,List of objects representing the type of a package defined and maintained by the EU,PA,Packet
+10010,List of objects representing the type of a package defined and maintained by the EU,PZ,"Planks, in bundle/bunch/truss"
+10011,List of objects representing the type of identification of a party,4,EAN number
+10011,List of objects representing the type of identification of a party,5,Fiscal number
+10011,List of objects representing the type of identification of a party,8,EU customs office ID
+10011,List of objects representing the type of identification of a party,6,SSN
+10011,List of objects representing the type of identification of a party,1,Eori Number
+10011,List of objects representing the type of identification of a party,9,Country specific customs office ID
+10011,List of objects representing the type of identification of a party,3,DUNS number
+10011,List of objects representing the type of identification of a party,7,User defined
+10011,List of objects representing the type of identification of a party,2,VAT number
+10012,List of objects capturing the type of a party relationship defined as a pair of 2 roles (the left and the rigth hand side role) played by the involved parties,4,Contact person
+10012,List of objects capturing the type of a party relationship defined as a pair of 2 roles (the left and the rigth hand side role) played by the involved parties,0,No relationship
+10012,List of objects capturing the type of a party relationship defined as a pair of 2 roles (the left and the rigth hand side role) played by the involved parties,5,Customs office
+10012,List of objects capturing the type of a party relationship defined as a pair of 2 roles (the left and the rigth hand side role) played by the involved parties,7,Supervised office
+10012,List of objects capturing the type of a party relationship defined as a pair of 2 roles (the left and the rigth hand side role) played by the involved parties,2,Subsidiary
+10012,List of objects capturing the type of a party relationship defined as a pair of 2 roles (the left and the rigth hand side role) played by the involved parties,6,External party
+10012,List of objects capturing the type of a party relationship defined as a pair of 2 roles (the left and the rigth hand side role) played by the involved parties,1,Buyer-seller
+10012,List of objects capturing the type of a party relationship defined as a pair of 2 roles (the left and the rigth hand side role) played by the involved parties,8,EORI-related VAT number
+10013,List of objects capturing the type of role a party plays in association with another List of objects as defined by UN/Edifact data element 3035,SY,Surety
+10013,List of objects capturing the type of role a party plays in association with another List of objects as defined by UN/Edifact data element 3035,AF,Transit principal
+10013,List of objects capturing the type of role a party plays in association with another List of objects as defined by UN/Edifact data element 3035,FT,Financial Settlement Party
+10013,List of objects capturing the type of role a party plays in association with another List of objects as defined by UN/Edifact data element 3035,IM,Importer
+10013,List of objects capturing the type of role a party plays in association with another List of objects as defined by UN/Edifact data element 3035,LC,Party declaring the VAT
+10013,List of objects capturing the type of role a party plays in association with another List of objects as defined by UN/Edifact data element 3035,CZ,Consignor
+10013,List of objects capturing the type of role a party plays in association with another List of objects as defined by UN/Edifact data element 3035,TB,Submitter
+10013,List of objects capturing the type of role a party plays in association with another List of objects as defined by UN/Edifact data element 3035,SE,Seller
+10013,List of objects capturing the type of role a party plays in association with another List of objects as defined by UN/Edifact data element 3035,DEO,"Agent/representative, indirect representation"
+10013,List of objects capturing the type of role a party plays in association with another List of objects as defined by UN/Edifact data element 3035,BY,Buyer
+10013,List of objects capturing the type of role a party plays in association with another List of objects as defined by UN/Edifact data element 3035,DFW,Additional Actor
+10013,List of objects capturing the type of role a party plays in association with another List of objects as defined by UN/Edifact data element 3035,DEN,"Agent/representative, direct representation "
+10013,List of objects capturing the type of role a party plays in association with another List of objects as defined by UN/Edifact data element 3035,PR,Payer
+10013,List of objects capturing the type of role a party plays in association with another List of objects as defined by UN/Edifact data element 3035,AG,Declarant's agent/representative
+10013,List of objects capturing the type of role a party plays in association with another List of objects as defined by UN/Edifact data element 3035,EX,Exporter
+10013,List of objects capturing the type of role a party plays in association with another List of objects as defined by UN/Edifact data element 3035,CN,Consignee
+10013,List of objects capturing the type of role a party plays in association with another List of objects as defined by UN/Edifact data element 3035,DT,Declarant
+10013,List of objects capturing the type of role a party plays in association with another List of objects as defined by UN/Edifact data element 3035,VF,Authorization Holder
+10014,List of objects capturing the type of status role that a party may play in a certain context,2,direct representative
+10014,List of objects capturing the type of status role that a party may play in a certain context,3,indirect representative
+10015,List of objects capturing the type of payment method defined by EU,U,From agent's guarantee ? standing authority
+10015,List of objects capturing the type of payment method defined by EU,C,Payment by cheque
+10015,List of objects capturing the type of payment method defined by EU,K,Excise credit or rebate
+10015,List of objects capturing the type of payment method defined by EU,R,Guarantee
+10015,List of objects capturing the type of payment method defined by EU,A,Payment in cash
+10015,List of objects capturing the type of payment method defined by EU,H,Electronic credit transfer
+10015,List of objects capturing the type of payment method defined by EU,P,From agent's cash account
+10015,List of objects capturing the type of payment method defined by EU,T,From agent's guarantee account
+10015,List of objects capturing the type of payment method defined by EU,B,Payment by credit card
+10015,List of objects capturing the type of payment method defined by EU,S,Individual guarantee account
+10015,List of objects capturing the type of payment method defined by EU,D,Other (e.g. direct debit to agent's cash account)
+10015,List of objects capturing the type of payment method defined by EU,J,Payment through post office administration (postal consignments) or other public sector or government department
+10015,List of objects capturing the type of payment method defined by EU,O,Guarantee lodged with Intervention Agency.
+10015,List of objects capturing the type of payment method defined by EU,E,Deferred or postponed payment
+10015,List of objects capturing the type of payment method defined by EU,V,From agent's guarantee ? individual authority
+10015,List of objects capturing the type of payment method defined by EU,G,Postponed payment ? VAT system (Article 23 Sixth VAT Directive)
+10016,Category of duty measure types that are of a provisional nature,551,DUMPP
+10016,Category of duty measure types that are of a provisional nature,553,COMPP
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,419,CU agreements /Temporary suspension for products imported with a certificate of airworthiness
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,123,KEU
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,225,GSP / Tariff quota with certificate confirming the special nature of the product (*)
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,310,Other / Tariff suspension
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,250,GSP / Certificate confirming the special nature of the product
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,325,Other / Tariff quota with certificate confirming the special nature of the product (*)
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,220,GSP / Tariff quota (*)
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,240,GSP / Special end-use resulting from the Common Customs Tariff
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,210,GSP / Tariff suspension
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,415,CU agreements /Tariff suspension with specified end-use
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,318,Other / Tariff suspension with specified end-use
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,420,CU agreements /Tariff quota (*)
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,410,CU agreements / Tariff suspension
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,120,ALG.GELD. TARIEFCONT
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,450,CU agreements /Certificate confirming the special nature of the product
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,400,NI/DR DU
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,218,GSP / Tariff suspension with specified end-use
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,319,Other / Temporary suspension for products imported with a certificate of airworthiness
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,315,Other / Tariff suspension with specified end-use
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,215,GSP / Tariff suspension with specified end-use
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,223,GSP / Tariff quota with specified end-use (*)
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,423,CU agreements /Tariff quota with specified end-use (*)
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,350,Other / Certificate confirming the special nature of the product
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,328,Other / Tariff quota following outward processing (*)
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,425,CU agreements /Tariff quota with certificate confirming the special nature of the product (*)
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,320,Other / Tariff quota (*)
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,340,Other / Special end-use resulting from the Common Customs Tariff
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,428,CU agreements /Tariff quota following outward processing (*)
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,228,GSP/ Tariff quota following outward processing (*)
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,440,CU agreements /Special end-use resulting from the Common Customs Tariff
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,418,CU agreements /Tariff suspension with specified end-use
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,219,GSP / Temporary suspension for products imported with a certificate of airworthiness
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,323,Other / Tariff quota with specified end-use (*)
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,100,Tariff arrangement erga omnes
+10017,List of objects representing the type of preferred treatment of goods defined in CCIP,119,LUCHT.SCHORS
+10018,List of objects representing the status of a quota level,5,Blocked and critical
+10018,List of objects representing the status of a quota level,6,Suspended
+10018,List of objects representing the status of a quota level,4,Blocked
+10018,List of objects representing the status of a quota level,1,Safe
+10018,List of objects representing the status of a quota level,2,Critical
+10018,List of objects representing the status of a quota level,3,Exhausted
+10019,Category of duty measure types that were of a provisional nature but are final now,554,COMPD
+10019,Category of duty measure types that were of a provisional nature but are final now,552,DUMPD
+10020,"List of objects representing the way relief (exemption) is treated in determining the payable tax amount of a goods item under a specific combination of requested, preceding and special procedures defined by the client and maintained in Arctic/Tariff ",R0001,R0001
+10020,"List of objects representing the way relief (exemption) is treated in determining the payable tax amount of a goods item under a specific combination of requested, preceding and special procedures defined by the client and maintained in Arctic/Tariff ",R0004,R0004
+10020,"List of objects representing the way relief (exemption) is treated in determining the payable tax amount of a goods item under a specific combination of requested, preceding and special procedures defined by the client and maintained in Arctic/Tariff ",R0006,R0006
+10020,"List of objects representing the way relief (exemption) is treated in determining the payable tax amount of a goods item under a specific combination of requested, preceding and special procedures defined by the client and maintained in Arctic/Tariff ",R0002,R0002
+10020,"List of objects representing the way relief (exemption) is treated in determining the payable tax amount of a goods item under a specific combination of requested, preceding and special procedures defined by the client and maintained in Arctic/Tariff ",R0005,R0005
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,FF,Flora and Fauna Act
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,DV,Animalfood
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,WM,Weapons and munition
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,DR,Customs duties
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,DIVE,Multiple risk area?s
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,SM,Sanction measures
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,EVOA,Waste material
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,VG,Tranport of dangerous goods
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,GM,Drugs
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,CM,Cadmium
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,FYT,Plant health rules
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,SG,Strategical goods
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,NM,Intellectual capital
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,PREC,Drugs precursors
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,KB,Quality provisions
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,VM,Narcotics
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,ACC,Excise goods
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,PV,Product savety
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,LB,Agiriculture
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,VW,Fireworks
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,CFK,CFC
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,KW,Nuclear energy act
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,GE,ealth comsumables
+10021,List of objects representing the area to which a risk belongs as defined and maintained by the client,VET,Vetenairy rules
+10022,List of objects capturing information about the risk rate,4,High risk
+10022,List of objects capturing information about the risk rate,3,Medium risk
+10022,List of objects capturing information about the risk rate,2,Low risk
+10023,List of objects representing a type of dangerous goods,221,"Warheads, torpedo with bursting charge"
+10023,List of objects representing a type of dangerous goods,1305,"Vinyltrichlorosilane, inhibited"
+10023,List of objects representing a type of dangerous goods,2427,"Potassium chlorate, aqueous solution"
+10023,List of objects representing a type of dangerous goods,14,"Cartridges for weapons, blank or Cartridges, small arms, blank"
+10023,List of objects representing a type of dangerous goods,153,Trinitroaniline or Picramide
+10024,List of objects representing signal qualifier,3,Error
+10024,List of objects representing signal qualifier,2,Warning
+10024,List of objects representing signal qualifier,1,Information
+10025,"List of objects representing a signal (like an error, warning or information)",QMS00005,Quota return request error
+10025,"List of objects representing a signal (like an error, warning or information)",TMSC9997,Unknown informational signal
+10025,"List of objects representing a signal (like an error, warning or information)",TMSC0004,Incomplete measure or commodity code
+10025,"List of objects representing a signal (like an error, warning or information)",GMSR0001,Party not found
+10025,"List of objects representing a signal (like an error, warning or information)",TMSC0003,Incompatible preference code and country code of dispatch
+10025,"List of objects representing a signal (like an error, warning or information)",SRS00003,Surveillance Validation Error
+10025,"List of objects representing a signal (like an error, warning or information)",TMSC0008,Manual calculation required
+10025,"List of objects representing a signal (like an error, warning or information)",QMS00007,Quota update request error
+10025,"List of objects representing a signal (like an error, warning or information)",ECF00001,Functional Error Encountered
+10025,"List of objects representing a signal (like an error, warning or information)",QMS00009,Quota request abnormally high
+10025,"List of objects representing a signal (like an error, warning or information)",TMSC0002,Validation information
+10025,"List of objects representing a signal (like an error, warning or information)",QMS00011,Critical quota
+10025,"List of objects representing a signal (like an error, warning or information)",QMS00018,No allocation for quota item due to rounding
+10025,"List of objects representing a signal (like an error, warning or information)",TMSC0006,Missing document
+10025,"List of objects representing a signal (like an error, warning or information)",TRDS0001,Code not found
+10025,"List of objects representing a signal (like an error, warning or information)",TMSC9999,Unknown error signal
+10025,"List of objects representing a signal (like an error, warning or information)",QMS00006,Quota return request information
+10025,"List of objects representing a signal (like an error, warning or information)",QMS00017,No allocation for request due to rounding
+10025,"List of objects representing a signal (like an error, warning or information)",GMSR0004,Guarantee suspended
+10025,"List of objects representing a signal (like an error, warning or information)",TMSC0001,Calculation Validation error
+10025,"List of objects representing a signal (like an error, warning or information)",QMS00013,Agri Quota
+10025,"List of objects representing a signal (like an error, warning or information)",AMSR0001,Reservation not allowed
+10025,"List of objects representing a signal (like an error, warning or information)",AMSR0003,Create on already existing reservation
+10025,"List of objects representing a signal (like an error, warning or information)",QMS00010,Blocked quota
+10025,"List of objects representing a signal (like an error, warning or information)",QMS00012,Date changed on allocated request
+10025,"List of objects representing a signal (like an error, warning or information)",AMSR0002,Update/delete on non-existing reservation
+10025,"List of objects representing a signal (like an error, warning or information)",TMSC0005,Incomplete preferential document
+10025,"List of objects representing a signal (like an error, warning or information)",QMS00004,Internal quota System error
+10025,"List of objects representing a signal (like an error, warning or information)",QMS00016,Waiting for acknowledgement from TAXUD
+10025,"List of objects representing a signal (like an error, warning or information)",QMS00001,Quota drawing request information
+10025,"List of objects representing a signal (like an error, warning or information)",QMS00002,Quota drawing request error
+10025,"List of objects representing a signal (like an error, warning or information)",GMSR0002,Guarantee not found
+10025,"List of objects representing a signal (like an error, warning or information)",GMSR0003,Guarantee revoked
+10025,"List of objects representing a signal (like an error, warning or information)",TMSC0007,Tariff condition not fulfilled
+10025,"List of objects representing a signal (like an error, warning or information)",QMS00003,Quota Validation error
+10025,"List of objects representing a signal (like an error, warning or information)",QMS00014,Quota drawing request deleted instantaneously
+10025,"List of objects representing a signal (like an error, warning or information)",SRS00004,Waiting for acknowledgement from TAXUD for latest request on sad item
+10025,"List of objects representing a signal (like an error, warning or information)",SRS00002,Surveillance information
+10025,"List of objects representing a signal (like an error, warning or information)",QMS00008,Allocated amount increased
+10025,"List of objects representing a signal (like an error, warning or information)",TMSC9998,Unknown warning signal
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,97006,"duration of validity XXX weeks Geldigheidsduur XXX weken article 292,4(e) and article 499 (f) commission regulation 2454/1993"
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,90004,EU-approved. Licencenr.
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95008,Conform annex I Regulation (EC) 2331/97 quality requirements
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,90010,"Transporter: Name, Postcode House number excise goods "
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95013,Intervention products transportation Interventieproducten vervoer article 340 quarter(3)(b) commission regulation 2454/93
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,90001,Date of entry into customs warehouse type D
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,90003,Inspected in other member state (Phytosanitary directive)
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,90012,approve conformity checking operationsperformed by this third country prior to import into the Community. Coded:
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95020,Importation for free circulation in the country of destination
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95015,"Intervention meat without restitutions Vlees uit interventievoorraden zonder restitutie article 12,2 commission regulation 3002/92"
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,90005,Emergency procedure (PD)
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,90009,Depositor is other person than warehousekeeper
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95021,Request for repayment of excise/taxes/VAT (national legislation) verbruiksbelastingen van alcoholvrije dranken en van enkele andere producten en art. 24 wet op de omzetbelasting.
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,90014,Decision LWT: identification number: Decision from the Customs National Value team on a customs value judg(e)ment
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95007,Declared in datasystem as 'placed under' for EX/A regulation 1076
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,97003,Light-heavy or unmixed gasoil Halfzware- of gasolie onvermengd. National: art 27 lid 1 wet op de accijns
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95012,Intervention goods for storage in 3rd countries Interventiegoederen voor opslag in 3e landen article 2 commission regulation 3551/92
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,97005,Clause of protest Protestclausulevergunning HD bezwaar en beroep punt 2.2.2.
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95009,No transhipment in EU Geen overlading binnen de EU article 9 commission regulation 800/1999
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95018,Conform conditions of art. 45 Reg.1291/2000
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95019,Declaration for re-exportation at other customs office after storage in customs warehouse
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95005,Exempted from form L(F)
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,90006,Par. 24a Implementation legislation VAT 1968
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95004,Exempted from exportcertificate
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95024,net weight not incorporating the weight of the wax. NIET IN NETTO-GEWICHT BEGREPEN commission regulation EG 558/2005 footnote 7e
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95022,Request for repayment of duties (customs code) Verzoek terugbetaling rechten bij invoer (CDW) article 235 - 242 commission regulation 2454/1993
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,90013,request to charge the import duties on the whole consignment to the highest rate of import duty
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95016,Goods destined for the Royal Household
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95014,"Intervention meat Vlees uit interventievoorraden article 12,2 commission regulation 3002/92"
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95023,Export restitution: 0 EUR Regulation EC Nr 1676/2004 Uitvoerrestitutie: 0 EUR/Verordening (EG) nr. 1676/2004 article 1 commission regulation 1712/2004
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95006,Declared in datasystem as  'placed under' for CO/A regulation 7600
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95002,No additived whey/etc than mentioned under footnote
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95028,addition of such non-lactic ingredients. INCLUSIEF ANDERE MELKVR. INGREDIENTEN (HAM E.D.) commission regulation EG 558/2005 footnote 10a
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95001,Commercial policy Handelspolitiek article 549 lid 2 commission regulation 2454/1993
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95011,Telephonic release of goods known to customs
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,90002,Request for deviation of customsvalue usual forms of handling
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,90011,Excise warehouse licensee:
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95025,net weight includes the weight of the film in plastic. INCLUSIEF PLASTIC COATING/FOLIE commission regulation EG 558/2005 footnote 7c
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95017,Request for retrospective exportcertification without previous fixation of restitution amount
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,100,Application on the declaration for authorisation for a Customs procedure with Economic impact
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95027,addition of herbs or spices. INCLUSIEF KRUIDEN OF SPECERIJEN commission regulation EG 558/2005 footnote 10b
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95026,net weight includes the weight of the ash or the paraffin INCLUSIEF PARAFFINE EN-OF AS commission regulation EG 558/2005 footnote 7d
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,97004,Light-heavy or gasoil supplied with means for identification Halfzware- of gasolie voorzien van herkenningsmiddelen National: art 27 lid 3 wet op de accijns
+10026,List of objects representing a possible value of the AdditionalInformation of type 'CUS'  being a 5 digit EU codes defined in CCIP,95003,No other additives than mentioned in footnote HBIII (national legislation) under goodsdescription
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F42,IVV NA AV ART122
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D06,Disaster relief material
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,A03,Goods placed under an IPS continental shelf
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,4,ONGBR PERSV.
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,E52,"Agricultural products listed in Annex I to the Treaty on the Functioning of the European Union for which a refund is requested, not requiring an export certificate"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,A52,Compensating products placed under an IPS (VAT only)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C61,Presents customarily given on the occasion of a marriage entered for free circulation in the last two months before the wedding (duty relief subject to the lodging of appropriate security)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C13,"Educational, (spare parts)"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D21,Samples
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C05,Household effects secondary residence
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C19,Pharmaceutical products
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C25,Articles intended for other handicapped persons institutions
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C27,Honorary decorations or awards
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F03,Relief from import duties for returned goods (Special circumstances provided for in Article 158(2) of Delegated Regulation (EU) 2015/2446 repair or restoration)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,200,AVT BINNEN AGP/IV
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C30,Samples of goods imported for trade promotion purposes
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,E62,"Processed agricultural products not listed in Annex I to the Treaty on the Functioning of the European Union for which a refund is requested, not requiring a refund certificate"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,201,AGP/IV BIJ REG. 49
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,E71,"Agricultural products for which a refund is requested, exported in small quantities disregarded for the calculation of minimum rates of checks."
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C36,Miscellaneous documents and articles
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C07,Consignments of negligible value
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F22,Exemption from import duties of products obtained from products of sea-fishing and other products taken from the territorial sea of a country or territory outside the customs territory of the Union on board factory-ships registered or recorded in a Member State and flying the flag of the state
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D04,Personal effects and goods for sports purposes imported by travellers
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D12,Professional equipment
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F15,Goods introduced in the context of trade with special fiscal territories (Article 1 (3) of the Code)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C37,Ancillary materials for the stowage and protection of goods during their transport
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F21,Exemption from import duties of products of sea-fishing and other products taken from the territorial sea of a country or territory outside the customs territory of the Union by vessels solely registered or recorded in a Member State and flying the flag of that state
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C31,Printed advertising matter
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,E02,"Standard import values (for example: Regulation (EU) No 543/2011)(*)(*) Commission Implementing Regulation (EU) No 543/2011 of 7 June 2011 laying down detailed rules for the application of Council Regulation (EC) No 1234/2007 in respect of the fruit and vegetables and processed fruit and vegetables sectors (OJ L 157, 15.6.2011, p. 1)"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,A02,Goods placed under an IPS military use abroad
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,A06,Goods placed under an IPD military use abroad
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,A01,Goods entered for an IPS procedure milk products
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C12,"Educational, Annex II"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C47,"Seeds, fertilizers and products for treatment of soil and crops, intended for use on property located in the customs territory of the Union adjoining a third country"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F33,"Goods which, after having been in a free zone, are placed under  customs warehousing procedure without suspension of excise duties"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C59,"Printed matter, catalogues, prospectuses, price lists, advertising posters, calendars, whether or not illustrated, unframed photographs and other articles supplied free of charge in order to advertise goods manufactured outside the customs territory of the Union and displayed at a trade fair or similar event"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,B54,VAT OP only
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D20,"Goods used to carry out tests, experiments or demonstrations without financial gain (six months)."
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C44,Personal property acquired by inheritance by legal persons engaged in a non-profit making activity who are established in the customs territory of the Union
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F05,Relief from import duties and from VAT and/or excise duties for returned goods (Art. 203 of the Code and Art. 143(1)(e) (Directive 2006/112/EC)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,E65,Entry in victualing warehouse (Article 37 Regulation (EC) No 612/2009)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F06,A movement of excise goods under an excise duty suspension arrangement from the place of importation in accordance with Article 17(1)(b) of Directive 2008/118/EC.
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C73,Consignments of negligible value
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C58,"Various materials of little value such as paints, varnishes, wallpaper, etc., used in the building, fitting-out and decoration of temporary stands occupied by representatives of third countries at a trade fair or similar event, which are destroyed by being used"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C43,Personal property belonging to a natural person having intention to transfer his normal place of residence to the Union (duty-free admission subject to an undertaking).
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,E51,"Agricultural products listed in Annex I to the Treaty on the Functioning of the European Union for which a refund is requested, subject to an export certificate"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D26,Goods imported with a view to their sale by auction
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F16,Goods introduced in the context of trade between the Union and the countries with which it has formed a customs union.
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C38,"Litter, fodder and feeding stuffs for animals during their transport"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F31,"Goods which, after having been under outward processing, are placed under  customs warehousing without suspension of excise duties"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D05,Welfare material for seafarers
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,E64,"Victualing of goods eligible for refunds (Article 33 Regulation (EC) No 612/2009 (**)(**) Commission Regulation (EC) No 612/2009 of 7 July 2009 on laying down common detailed rules for the application of the system of export refunds on agricultural products (OJ L 186, 17.7.2009, p. 1)."
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C35,Tourist information literature
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C49,Goods for charitable or philanthropic organisations - goods of every description sent free of charge and to be used for fund-raising at occasional charity events for the benefit of needy persons
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C24,Articles intended for other handicapped persons own use
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D28,Goods imported in particular situations having no economic effect
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F32,"Goods which, after having been under an inward processing procedure, are placed under  customs warehousing without suspension of excise duties"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C71,Domesticated animals exported at the time of transfer of agricultural activities from the Union to a third country
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,B03,Compensating products returning after replacement under guarantee
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F02,Relief from import duties for returned goods (Special circumstances provided for in Article 159 of Delegated Regulation (EU) 2015/2446: agriculture goods)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,A08,Goods which are placed under an IPS without suspension of excise duties.
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,603,VRIJST. KOLENBEL.
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D13,Pedagogic material and scientific equipment
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C10,Capital goods and other equipment belonging to persons engaged in a liberal profession and to legal persons engaged in a non-profit making activity
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,B53,"OP under agreements with third countries, possibly combined with VAT OP"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,E53,"Agricultural products listed in Annex I to the Treaty on the Functioning of the European Union for which a refund is requested, exported in small quantities, not requiring an export certificate"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C17,"Instruments medical research,"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C75,"Seeds for use on properties located in a third country adjacent to the customs territory of the Union and operated, in the capacity of owner or lessee, by persons having their principal undertaking in the said customs territory in the immediate proximity of the third country in question."
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D18,"Goods subject to tests, experiments or demonstrations."
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F61,Victualing and bunkering
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,2,PERS VOERT
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C29,Goods to be used by monarchs or heads of state
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D07,"Medical, surgical and laboratory equipment"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,602,DW FORFAIT
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,E61,"Processed agricultural products not listed in Annex I to the Treaty on the Functioning of the European Union for which a refund is requested, subject to a refund certificate"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D51,Temporary admission with partial relief from duties
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D27,"Spare parts, accessories and equipment"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C52,"Cups, medals and similar articles of an essentially symbolic nature which are given free of charge by authorities or persons established in a third country to be presented in the customs territory of the Union"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C53,"Awards, trophies and souvenirs of a symbolic nature and of limited value intended for distribution free of charge to persons normally resident in third countries at business conferences or similar international events"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C74,"Agricultural or stock-farming products obtained in the customs territory of the Union from properties adjacent to a third country, operated, in the capacity of owner or lessee, by persons having their principal undertaking in a third country adjoining the customs territory of the Union."
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D10,"Sound, image or data carrying media (article No: 568)"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,B06,Processed products returning ? VAT only
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,101,VERHSG. ZEK
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,B05,Compensating products returning with partial relief of customs duties when the cost of the processing operation is used for calculation (article 591)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C03,marriage presents
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F41,IVV NA TI HEF
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C06,School outfits
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,600,TOEP.ALG.SCHORSING
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C34,Consignments sent to organisations protecting copyrights or industrial and commercial patent rights
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C32,Small representative samples of goods manufactured outside the customs territory of the Union intended for a trade fair or similar event
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C26,Goods imported for the benefit of disaster victims
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C54,Goods imported into the customs territory of the Union by persons coming to pay an official visit in the customs territory of the Union and who intend to offer them on that occasion as gifts to the host authorities
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C23,Articles in Annex IV intended for the blind imported institutions
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D14,"Packings, full"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D09,Goods for use in frontier zone
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,B04,Compensating products returning after outward processing and VAT suspension in case of end-use.
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C55,"Goods sent as gifts, in token of friendship or goodwill, by an official body, public authority or group, carrying on an activity in the public interest which is located in a third country, to an official body, public authority or group carrying on an activity in the public interest which is located in the customs territory of the Union and approved by the competent authorities to receive such articles free of duty"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D19,"Goods imported, subject to satisfactory acceptance tests, in connection with a sales contract"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,A05,Goods placed under an IPS (VAT only)  continental shelf
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C48,Goods contained in the personal luggage and exempted from VAT
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C45,"Agricultural, stock-farming, bee-keeping, horticultural and forestry products from properties located in a third country adjoining the customs territory of the Union"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C14,Equipment scientific research
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C18,Reference substances
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C33,"Goods imported for examination, analysis or test purposes"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C09,Capital goods and other equipment imported on the transfer of activities from a third country into the Community
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,B01,Compensating products returning to the Member State in which duties were paid
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,A51,Compensating products obtained from milk and milk products
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,A07,Goods placed under an IPD continental shelf
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C15,Laboratory animals
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D02,Containers (including  container accessories and equipment)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C08,Consignments private individual to another
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C21,Articles in Annex III intended for the blind
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,B02,Compensating products returning after repair under guarantee
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,1,INT. ORG
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C50,Goods for charitable or philanthropic organisations - equipment and office materials sent free of charge
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F04,Processed products which return to the European Union after having been previously re- exported subsequent to an inward processing procedure (Article 205(1) of the Code)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,102,HUW UITZ ZEK
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D15,"Packings, empty"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,E01,Use of the unit price for the determination of the customs value for certain perishable goods (Article 74(2)(c) of the Code and Article 142(6))
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,3,LUCHTV
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C02,trousseaux and household effects
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D30,Means of transport for persons established outside the customs territory of the Union or for persons preparing the transfer of their normal place of residence outside that territory.
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,B51,Goods imported for IP exported for repair under OP
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C72,Fodder and feeding stuffs accompanying animals during their exportation
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C16,Therapeutic substances
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,103,TERUG ACC/OB
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F43,IVV NA AV Z. CI
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F01,Relief from import duties for returned goods (Article 203 of the Code)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C28,Presents received in the context of international relations
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F75,Goods dispatched in the context of trade with special fiscal territories (Article 1 (3) of the Code)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,A53,Compensating products placed under an IP military use abroad
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C57,"Goods imported solely in order to be demonstrated or in order to demonstrate machines and apparatus, manufactured outside the customs territory of the Union and displayed at a trade fair or similar event"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C39,Fuel and lubricants present in land motor vehicles and special containers
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D01,Pallets (including pallet accessories and equipment)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,E63,"Processed agricultural products not listed in Annex I to the Treaty on the Functioning of the European Union for which a refund is requested, exported in small quantities, without a refund certificate"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C51,"Cups, medals and similar articles of an essentially symbolic nature which, having been awarded in a third country to persons having their normal place of residence in the customs territory of the Union"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,B52,Goods imported for IP exported for replacement under guarantee
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D03,"Means of road, rail, air, sea and inland waterway transport"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C46,Products of fishing or fish-farming activities carried out in the lakes or waterways bordering a Member State and a third country by Union fishermen and products of hunting activities carried out on such lakes or waterways by Union sportsmen
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D25,"Works of art, collectors' items and antiques"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D24,Goods for approval (six months)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C42,Personal property entered for free circulation before the person concerned establishes his normal place of residence in the customs territory of the Union (duty relief subject to an undertaking)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C11,"Educational, Annex I"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D22,Replacement means of production (six months)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F34,"Goods which, after having been subject to end-use, are placed under customs warehousing without suspension of excise duties"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D23,Goods for events or for sale
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C01,Personal property
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D16,"Moulds, dies, blocks, drawings, sketches, measuring, checking and testing instruments and other similar articles"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C60,Trousseaux and household effects imported on the occasion of a marriage entered for free circulation in the first two months before the wedding (duty relief subject to the lodging of appropriate security)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D11,Publicity material
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C22,Articles in Annex IV intended for the blind  own use.
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C20,Goods for charitable or philanthropic organisations
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F45,"Exemption from value added tax on the final importation of certain goods (Council Directive 2009/132/EC (*))(*) Council Directive 2009/132/EC of 19 October 2009 determining the scope of Article 143(b) and (c) of Directive 2006/112/EC as regards exemption from value added tax on the final importation of certain goods (OJ L 292, 10.11.2009, p. 5)."
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D08,Animals (twelve months or more)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,A04,Goods placed under an IPS (VAT only)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C56,"Articles for advertising purposes, of no intrinsic commercial value, sent free of charge by suppliers to their customers, which, apart from their advertising function, are not capable of being used otherwise"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D29,Goods imported for a period not exceeding three months
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F07,Processed products which return to the European Union after having been previously re-exported subsequent to an inward processing procedure where the import duty is determined in accordance with Article 86(3) of the Code (Article 205(2) of the Code)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C40,"Materials for cemeteries for, and memorials to, war victims"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,D17,Special tools and instruments
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C04,Personal property acquired by inheritance
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,C41,"Coffins, funerary urns and ornamental funerary articles"
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,601,VRIJST.BTW(LUCHTV.)
+10027,List of objects capturing the special procedure further detailing a government procedure as defined by the country or customs union,F48,Import under the special scheme for distance sales of goods imported from third countries and territories set out in Title XII Chapter 6 Section 4 of Directive 2006/112/EC.
+10028,List of objects representing the type of a transaction condition,11,no royalties or license fees
+10028,List of objects representing the type of a transaction condition,7,no special restrictions
+10028,List of objects representing the type of a transaction condition,12,royalties or license fees
+10028,List of objects representing the type of a transaction condition,10,price conditions or considerations
+10028,List of objects representing the type of a transaction condition,16,customs decision concerning transaction conditions
+10028,List of objects representing the type of a transaction condition,2,affiliated
+10028,List of objects representing the type of a transaction condition,8,special restrictions
+10028,List of objects representing the type of a transaction condition,5,no approximate value
+10028,List of objects representing the type of a transaction condition,14,other revenue
+10028,List of objects representing the type of a transaction condition,3,no price influence
+10028,List of objects representing the type of a transaction condition,6,approximate value
+10028,List of objects representing the type of a transaction condition,1,not affiliated
+10028,List of objects representing the type of a transaction condition,15,deductible charges
+10028,List of objects representing the type of a transaction condition,4,price influence
+10028,List of objects representing the type of a transaction condition,17,contract information
+10028,List of objects representing the type of a transaction condition,13,no other revenue
+10028,List of objects representing the type of a transaction condition,9,no price conditions or considerations
+10029,List of objects capturing the processing status of declaration,8,Preparing for Release
+10029,List of objects capturing the processing status of declaration,4,Accepted
+10029,List of objects capturing the processing status of declaration,1,Received
+10029,List of objects capturing the processing status of declaration,14,Final Customs Debt Covered
+10029,List of objects capturing the processing status of declaration,12,Preparing for Clearance
+10029,List of objects capturing the processing status of declaration,9,Provisional Customs Debt Determined
+10029,List of objects capturing the processing status of declaration,10,Provisional Customs Debt Covered
+10029,List of objects capturing the processing status of declaration,26,Irregularity Detected
+10029,List of objects capturing the processing status of declaration,15,Clearance Provided
+10029,List of objects capturing the processing status of declaration,18,Invalidated
+10029,List of objects capturing the processing status of declaration,2,Rejected
+10029,List of objects capturing the processing status of declaration,17,Handled externally (no clearance)
+10029,List of objects capturing the processing status of declaration,3,Registered
+10029,List of objects capturing the processing status of declaration,13,Final Customs Debt Determined
+10029,List of objects capturing the processing status of declaration,27,Functional Exception Detected
+10029,List of objects capturing the processing status of declaration,11,Goods Released
+10029,List of objects capturing the processing status of declaration,16,Completed Successfully
+10029,List of objects capturing the processing status of declaration,7,Under Amendment
+10029,List of objects capturing the processing status of declaration,39,Decision Pending
+10029,List of objects capturing the processing status of declaration,29,Received - Pending Validation
+10029,List of objects capturing the processing status of declaration,30,Not Yet Requested
+10029,List of objects capturing the processing status of declaration,31,Not Yet Calculated
+10029,List of objects capturing the processing status of declaration,32,Not Released
+10029,List of objects capturing the processing status of declaration,33,No Control
+10029,List of objects capturing the processing status of declaration,34,Indicative Customs Debt Determined
+10029,List of objects capturing the processing status of declaration,35,Final Coverage Requested
+10029,List of objects capturing the processing status of declaration,36,Provisional Coverage Requested
+10029,List of objects capturing the processing status of declaration,37,In Progress
+10029,List of objects capturing the processing status of declaration,38,Finalized
+10029,List of objects capturing the processing status of declaration,5,Intention to Control
+10029,List of objects capturing the processing status of declaration,40,Pending - Manual Acceptance
+10030,List of objects representing the type of a Tariff action code,AAA,Documents may be mandatory
+10030,List of objects representing the type of a Tariff action code,8,Declared subheading not allowed => (condition not fulfilled)
+10030,List of objects representing the type of a Tariff action code,13,Apply the difference between the amount of the action (see components) and the CIF price augmented with the duty to be paid per tonne
+10030,List of objects representing the type of a Tariff action code,27,Apply the mentioned duty
+10030,List of objects representing the type of a Tariff action code,4,The entry into free circulation is not allowed=> (condition not fulfilled)
+10030,List of objects representing the type of a Tariff action code,34,Apply exemption/reduction of the anti-dumping duty
+10030,List of objects representing the type of a Tariff action code,10,"Declaration to be corrected - box 33, 38, 41 or 46 incorrect."
+10030,List of objects representing the type of a Tariff action code,2,Apply the difference between the amount of the action (see components) and the price at import
+10030,List of objects representing the type of a Tariff action code,36,Apply export refund
+10030,List of objects representing the type of a Tariff action code,12,Apply the difference between the amount of the action (see components) and the CIF price before duty
+10030,List of objects representing the type of a Tariff action code,29,Import/export allowed after control => (condition fulfilled)
+10030,List of objects representing the type of a Tariff action code,28,Declared subheading allowed => (condition fulfilled)
+10030,List of objects representing the type of a Tariff action code,25,Export allowed => (condition fulfilled)
+10030,List of objects representing the type of a Tariff action code,1,Apply the amount of the action (see components)
+10030,List of objects representing the type of a Tariff action code,11,Apply the difference between the amount of the action (see components) and the free at frontier price before duty
+10030,List of objects representing the type of a Tariff action code,26,Import allowed => (condition fulfilled)
+10030,List of objects representing the type of a Tariff action code,6,Import is not allowed => (condition not fulfilled)
+10030,List of objects representing the type of a Tariff action code,24,Entry into free circulation allowed => (condition fulfilled)
+10030,List of objects representing the type of a Tariff action code,3,Apply the difference between the amount of the action (see components) and CIF price
+10030,List of objects representing the type of a Tariff action code,7,Measure not applicable => (condition not fulfilled)
+10030,List of objects representing the type of a Tariff action code,14,The exemption/reduction of the anti-dumping duty is not applicable => (condition not fulfilled)
+10030,List of objects representing the type of a Tariff action code,9,Import/export not allowed after control => (condition not fulfilled)
+10030,List of objects representing the type of a Tariff action code,16,Export refund not applicable=> (condition not fulfilled)
+10030,List of objects representing the type of a Tariff action code,5,Export is not a allowed => (condition not fulfilled)
+10031,List of objects representing the reason why a task was initiated,1,Payup deadline expired
+10031,List of objects representing the reason why a task was initiated,2,No additional quota desired
+10032,List of objects capturing the type of task carried out in the context of customs management,1,Automated Control Task
+10032,List of objects capturing the type of task carried out in the context of customs management,2,External Control Task
+10032,List of objects capturing the type of task carried out in the context of customs management,3,Manual Control Task
+10032,List of objects capturing the type of task carried out in the context of customs management,4,Deadline monitoring
+10033,List of objects representing the type of a topic of a notification/publication,7,Declaration correction validation
+10033,List of objects representing the type of a topic of a notification/publication,13,Declaration supplemented
+10033,List of objects representing the type of a topic of a notification/publication,3,Declaration clearance
+10033,List of objects representing the type of a topic of a notification/publication,8,Advance declaration registration
+10033,List of objects representing the type of a topic of a notification/publication,23,Amended due to partial or no quota allocation
+10033,List of objects representing the type of a topic of a notification/publication,1,Declaration validation
+10033,List of objects representing the type of a topic of a notification/publication,2,Declaration goods release
+10033,List of objects representing the type of a topic of a notification/publication,20,Final customs debt calculated and covered
+10033,List of objects representing the type of a topic of a notification/publication,19,Provisional customs debt calculated and covered
+10033,List of objects representing the type of a topic of a notification/publication,6,Declaration handled externally
+10033,List of objects representing the type of a topic of a notification/publication,24,Manual task raised
+10033,List of objects representing the type of a topic of a notification/publication,14,Declaration risked and/or controls initiated
+10033,List of objects representing the type of a topic of a notification/publication,11,Declaration rejection at goods arrival
+10033,List of objects representing the type of a topic of a notification/publication,10,Declaration acceptance at goods arrival
+10033,List of objects representing the type of a topic of a notification/publication,15,Customs position determined
+10033,List of objects representing the type of a topic of a notification/publication,9,Declaration acceptance
+10033,List of objects representing the type of a topic of a notification/publication,22,Completed successfully
+10033,List of objects representing the type of a topic of a notification/publication,12,Declaration corrected
+10033,List of objects representing the type of a topic of a notification/publication,5,Declaration rejected
+10033,List of objects representing the type of a topic of a notification/publication,4,Declaration invalidation
+10033,List of objects representing the type of a topic of a notification/publication,17,Insufficient guarantees
+10033,List of objects representing the type of a topic of a notification/publication,16,Declaration clearance after goods release
+10033,List of objects representing the type of a topic of a notification/publication,18,Declaration received
+10033,List of objects representing the type of a topic of a notification/publication,21,Goods exit results received
+10034,List of objects representing a EU trade movement type as specified in the first sub box of SAD box 1,IM,Import not EFTA
+10034,List of objects representing a EU trade movement type as specified in the first sub box of SAD box 1,CO,Trade new Member States
+10034,List of objects representing a EU trade movement type as specified in the first sub box of SAD box 1,EX,Export not EFTA
+10034,List of objects representing a EU trade movement type as specified in the first sub box of SAD box 1,T,"Mixed consignments comprising both goods which are to be placed under the external Union transit procedure and goods which are to be placed under the internal Union transit procedure, covered by Article 294 of this Regulation"
+10034,List of objects representing a EU trade movement type as specified in the first sub box of SAD box 1,T1,Goods placed under the external Union transit procedure
+10034,List of objects representing a EU trade movement type as specified in the first sub box of SAD box 1,T2,"Goods placed under the internal Union transit procedure in accordance with Article 227 of the Code, unless Article 293(2) applies"
+10034,List of objects representing a EU trade movement type as specified in the first sub box of SAD box 1,T2F,"Goods placed under the internal Union transit procedure, in accordance with Article 188 of Delegated Regulation (EU) 2015/2446"
+10034,List of objects representing a EU trade movement type as specified in the first sub box of SAD box 1,T2SM,"Goods placed under the internal Union transit procedure, in application of Article 2 of Decision 4/92 of the EEC-San Marino Co-operation Committee of 22 December 1992"
+10034,List of objects representing a EU trade movement type as specified in the first sub box of SAD box 1,TIR,Goods placed under the TIR (Transport Internationaux Routiers) procedure
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,34,Other
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,22,Replacement for returned goods
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,23,Replacement (e.g. under terms of guarantee) for goods not returned
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,12,"Goods dispatched for viewing, trial samples, goods dispatched with right of return and transactions involving commission)"
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,43,Repair and maintenance free of charge
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,11,Final purchase/sale
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,53,Repair and maintenance free of charge
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,7,Transactions in connection with a joint defence programme or another intergovernmental production programme (e.g. Airbus)
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,52,Repair and maintenance against payment
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,42,Repair and maintenance against payment
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,62,Other temporary uses
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,61,"Hire, loan, operational leasing"
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,9,Other transactions
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,13,Transactions involving payment in kind
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,21,Return of goods
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,5,Transactions after processing or contractor repair (other than under 7)
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,3,Transactions (not temporary in nature) involving transfer of ownership but without consideration
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,33,Other aid deliveries (individuals and non-governmental organisations)
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,14,Sale to foreign travellers for their personal use
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,4,Transactions with a view to processing or contractor repair (other than under 7)
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,51,Processing
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,15,Financial leasing
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,6,"Transactions not involving transfer of ownership, with the exception of processing under contract or repair "
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,1,Transactions involving actual or intended transfer of ownership against payment
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,2,Return of goods already recorded under code 1 replacement of goods free of charge
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,8,Delivery of building material and equipment in connection with construction or civil engineering activities
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,31,Deliveries of goods under programmes wholly or partly financed by the European Community
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,32,Other government aid deliveries
+10035,List of objects capturing the nature of a transaction for valuation purposes as defined by CCIP:,41,Processing
+10036,List of objects representing the role a means of transport can play in a particular context,6,Transit
+10036,List of objects representing the role a means of transport can play in a particular context,5,Arrival
+10036,List of objects representing the role a means of transport can play in a particular context,7,Inland
+10036,List of objects representing the role a means of transport can play in a particular context,2,Border Crossing
+10036,List of objects representing the role a means of transport can play in a particular context,1,Departure
+10036,List of objects representing the role a means of transport can play in a particular context,4,Customs area exit
+10036,List of objects representing the role a means of transport can play in a particular context,3,Customs area entry
+10037,List of objects capturing the type of a means of transport as defined in the UN/Edifact  8179,11,Ship
+10037,List of objects capturing the type of a means of transport as defined in the UN/Edifact  8179,29,Freezer truck and trailer
+10037,List of objects capturing the type of a means of transport as defined in the UN/Edifact  8179,31,Truck
+10038,List of objects representing a category of transport facilities used to transport people or cargo as defined by WPFITP and (partially) used in CCIP,1,Maritime transport
+10038,List of objects representing a category of transport facilities used to transport people or cargo as defined by WPFITP and (partially) used in CCIP,5,Mail
+10038,List of objects representing a category of transport facilities used to transport people or cargo as defined by WPFITP and (partially) used in CCIP,3,Road transport
+10038,List of objects representing a category of transport facilities used to transport people or cargo as defined by WPFITP and (partially) used in CCIP,4,Air transport
+10038,List of objects representing a category of transport facilities used to transport people or cargo as defined by WPFITP and (partially) used in CCIP,9,Mode unknown/Own Propulsion
+10038,List of objects representing a category of transport facilities used to transport people or cargo as defined by WPFITP and (partially) used in CCIP,8,Inland water transport
+10038,List of objects representing a category of transport facilities used to transport people or cargo as defined by WPFITP and (partially) used in CCIP,7,Fixed transport
+10038,List of objects representing a category of transport facilities used to transport people or cargo as defined by WPFITP and (partially) used in CCIP,2,Rail transport
+10039,List of objects representing a city in the a geographic coding scheme developed and maintained by United Nations,NLAMS,AMSTERDAM AIRPORT/SEAPORT
+10040,List of objects capturing the type of a validation result,TMSV0044,Unused Document
+10040,List of objects capturing the type of a validation result,EMSV0001,Related movement not (yet) found
+10040,List of objects capturing the type of a validation result,TMSV0008,Additional agricultural code missing
+10040,List of objects capturing the type of a validation result,DMS12042,Relation error: elements must be identical within the GoodsItem
+10040,List of objects capturing the type of a validation result,TMSV0058,Incompatible preference code and country code of despatch
+10040,List of objects capturing the type of a validation result,TMSV0013,Data element contains invalid value
+10040,List of objects capturing the type of a validation result,DMS13000,Credibility check: incredible value found
+10040,List of objects capturing the type of a validation result,TMSV0052,Quota blocked and critical
+10040,List of objects capturing the type of a validation result,DMS12007,Authorization error: authorization not valid for declaration
+10040,List of objects capturing the type of a validation result,EXMS0004,Element not supported in this context (BCL49: 15)
+10040,List of objects capturing the type of a validation result,DMS12013,Authorization error: invalid VAT number
+10040,List of objects capturing the type of a validation result,TMSV0053,Quota suspended
+10040,List of objects capturing the type of a validation result,DMS12004,Uniqueness error: non-unique submitter reference
+10040,List of objects capturing the type of a validation result,DMS12050,Prerequisite error: invalid requested procedure
+10040,List of objects capturing the type of a validation result,DMS10001,Obligation error: obligation rule not met
+10040,List of objects capturing the type of a validation result,DMS12003,Uniqueness error: non-unique submitter reference
+10040,List of objects capturing the type of a validation result,TMSV0048,Provisional measure closed
+10040,List of objects capturing the type of a validation result,EXMS0014,"Diversion rejected, unknown MRN (BCL43: 3)"
+10040,List of objects capturing the type of a validation result,EXMS0001,Unknown domain value (BCL49: 12)
+10040,List of objects capturing the type of a validation result,TMSV0055,Internal Quota System error
+10040,List of objects capturing the type of a validation result,TMSV0065,No applicable measures found
+10040,List of objects capturing the type of a validation result,TMSV0066,Tariff condition not fulfilled
+10040,List of objects capturing the type of a validation result,TMSV0005,Additional antidumping code missing
+10040,List of objects capturing the type of a validation result,DMS11011,Relation error: differing communication address
+10040,List of objects capturing the type of a validation result,TMSV0012,Data element has invalid format
+10040,List of objects capturing the type of a validation result,DMS12008,Authorization error: requested amount or quantity is not available for authorization reservation
+10040,List of objects capturing the type of a validation result,EXMS0011,Invalid MRN (BCL49: 93)
+10040,List of objects capturing the type of a validation result,TMSV0047,Prohibition
+10040,List of objects capturing the type of a validation result,DMS11003,Relation error: invalid Item total value
+10040,List of objects capturing the type of a validation result,DMS12045,External Validation result conditionally OK
+10040,List of objects capturing the type of a validation result,TMSV0046,Condition not fulfilled
+10040,List of objects capturing the type of a validation result,DMS12053,Relation error: the number of items  from a single group is not allowed
+10040,List of objects capturing the type of a validation result,TMSV0057,Abnormally high drawing request
+10040,List of objects capturing the type of a validation result,DMS11006,Relation error: NetMass greater than gross mass.
+10040,List of objects capturing the type of a validation result,AMSV0003,Authorization does not exist
+10040,List of objects capturing the type of a validation result,TMSV0064,Additional codes for export refund available
+10040,List of objects capturing the type of a validation result,DMS12048,Relation error:Element is not allowed when office of entry/exit is equal to the office of declaration
+10040,List of objects capturing the type of a validation result,TMSV9998,Unknown warning result
+10040,List of objects capturing the type of a validation result,DMS11005,Relation error: differing requested procedure
+10040,List of objects capturing the type of a validation result,DMS12044,External Validation result not OK
+10040,List of objects capturing the type of a validation result,TMSV0054,Classification changes for definitive measure
+10040,List of objects capturing the type of a validation result,DMS11004,Relation error: invalid combination of  procedures
+10040,List of objects capturing the type of a validation result,EXMS0006,Duplicate message (BCL49: 26)
+10040,List of objects capturing the type of a validation result,DMS12046,Process error: goods presentation notification deadline passed.
+10040,List of objects capturing the type of a validation result,DMS12027,Uniqueness error: non-unique sequenceNumber
+10040,List of objects capturing the type of a validation result,TMSV0063,Incomplete preferential document
+10040,List of objects capturing the type of a validation result,DMS12012,Authorization error: missing license
+10040,List of objects capturing the type of a validation result,CWM00001,Customs value of the goods item is not within allowed range
+10040,List of objects capturing the type of a validation result,EMSV0002,Related movement does not match declaration
+10040,List of objects capturing the type of a validation result,TMSV0001,Missing reference date
+10040,List of objects capturing the type of a validation result,DMS12026,Uniqueness error: non-unique amendment element
+10040,List of objects capturing the type of a validation result,DMS11007,Relation error: differing submitters
+10040,List of objects capturing the type of a validation result,TMSV0006,Multiple meursing additional codes
+10040,List of objects capturing the type of a validation result,DMS10046,Missing document not required for requested procedure
+10040,List of objects capturing the type of a validation result,DMS12030,Authorization error: non-conforming declarant ID with warehouse license
+10040,List of objects capturing the type of a validation result,EXMS0003,Value not supported in this context (BCL49: 14)
+10040,List of objects capturing the type of a validation result,DMS12022,Relation error: inconsistent sequence number
+10040,List of objects capturing the type of a validation result,TMSV0003,Commodity code can not be declared
+10040,List of objects capturing the type of a validation result,DMS10021,Domain error: value can not be lower than 0.
+10040,List of objects capturing the type of a validation result,TMSV9997,Unknown informational result
+10040,List of objects capturing the type of a validation result,DMS12028,Authorization error: disallowed party status
+10040,List of objects capturing the type of a validation result,DMS12057,Relation error: elements must be identical within the Declaration
+10040,List of objects capturing the type of a validation result,TMSV0056,Parent to commodity code not found.
+10040,List of objects capturing the type of a validation result,DMS12032,Sequence error:  customs position already taken
+10040,List of objects capturing the type of a validation result,DMS12055,Relation error: the following parties can not be identical
+10040,List of objects capturing the type of a validation result,CWM00010,Postal Charges relation of Consignment Shipment(s) and associated Goods Item(s) not valid
+10040,List of objects capturing the type of a validation result,DMS12014,Sequence error: invalid supplement sequence
+10040,List of objects capturing the type of a validation result,DMS12041,Relation error: usage of preference is not allowed
+10040,List of objects capturing the type of a validation result,DMS10010,Format error: invalid format
+10040,List of objects capturing the type of a validation result,EXMS0008,Unknown MRN (BCL49: 90)
+10040,List of objects capturing the type of a validation result,AMSV0001,Authorization has insufficient balance
+10040,List of objects capturing the type of a validation result,DMS12034,Relation error: inconsistent mode of entry
+10040,List of objects capturing the type of a validation result,EXMS0002,Missing element (BCL49: 13)
+10040,List of objects capturing the type of a validation result,EXMS0009,Duplicate MRN (BCL49: 91)
+10040,List of objects capturing the type of a validation result,DMS12051,Relation error: The combination of GoodsItem.additionalInformation code is not allowed
+10040,List of objects capturing the type of a validation result,TMSV0045,Missing document
+10040,List of objects capturing the type of a validation result,DMS10020,Domain error: invalid value
+10040,List of objects capturing the type of a validation result,EXMS0010,Invalid message sequence (BCL49: 92)
+10040,List of objects capturing the type of a validation result,TMSV0011,Missing data element value
+10040,List of objects capturing the type of a validation result,TMSV0002,Invalid because of future reference date
+10040,List of objects capturing the type of a validation result,TMSV0059,Incomplete measure or commodity code
+10040,List of objects capturing the type of a validation result,DMS12037,Relation error: incorrect packaging content
+10040,List of objects capturing the type of a validation result,DMS12060,Relation error: Invalid combination of Declarant and the AdditionalInformation type and code
+10040,List of objects capturing the type of a validation result,DMS12054,Relation error: the following parties must be identical
+10040,List of objects capturing the type of a validation result,DMS12052,Prerequisite error: invalid declaration.type
+10040,List of objects capturing the type of a validation result,DMS12047,Relation error:combination of DutyTaxFee rate and base is not allowed
+10040,List of objects capturing the type of a validation result,DMS10045,Calculated customs value is not allowed to be below zero
+10040,List of objects capturing the type of a validation result,DMS12009,Authorization error: invalid warehouse license
+10040,List of objects capturing the type of a validation result,DMS12056,Relation error: the combination of elements is not allowed
+10040,List of objects capturing the type of a validation result,AMSV0002,Authorization cannot be used
+10040,List of objects capturing the type of a validation result,EXMS0013,"Diversion rejected, movement already exited (BCL43: 5)"
+10040,List of objects capturing the type of a validation result,DMS19999,Additional errors found
+10040,List of objects capturing the type of a validation result,DMS12016,Date error: disallowed acceptance date
+10040,List of objects capturing the type of a validation result,TMSV0004,Subheading can not be declared
+10040,List of objects capturing the type of a validation result,DMS12061,Guarantee error: guarantee not valid for declaration
+10040,List of objects capturing the type of a validation result,DMS12036,Sequence error: already existing request
+10040,List of objects capturing the type of a validation result,DMS12006,Authorization warning: invalid import/export license number
+10040,List of objects capturing the type of a validation result,EXMS0012,"Diversion rejected, export cancelled (BCL43: 2)"
+10040,List of objects capturing the type of a validation result,DMS12018,Date error: disallowed signature timestamp
+10040,List of objects capturing the type of a validation result,DMS10044,Document not allowed
+10040,List of objects capturing the type of a validation result,DMS12059,Authorization error: invalid additionalInformation type and code
+10040,List of objects capturing the type of a validation result,TMSV0010,Data element value does not apply
+10040,List of objects capturing the type of a validation result,DMS12033,Sequence error: data element under control
+10040,List of objects capturing the type of a validation result,DMS12029,Authorization error: differing warehouse types
+10040,List of objects capturing the type of a validation result,TMSV0067,Conflicting documents
+10040,List of objects capturing the type of a validation result,DMS12015,Sequence error: invalid additional message reference
+10040,List of objects capturing the type of a validation result,DMS12035,Authorization error: undetermined
+10040,List of objects capturing the type of a validation result,EMSV0003,Related movement not found
+10040,List of objects capturing the type of a validation result,TMSV0062,Licence Quota
+10040,List of objects capturing the type of a validation result,TMSV0040,Non existing value
+10040,List of objects capturing the type of a validation result,DMS12058,Relation error: at least one packaging quantity must be greater than zero
+10040,List of objects capturing the type of a validation result,DMS12043,External Validation result OK
+10040,List of objects capturing the type of a validation result,TMSV9999,Unknown error result
+10040,List of objects capturing the type of a validation result,DMS12005,Authorization error: invalid Party ID
+10040,List of objects capturing the type of a validation result,EXMS0015,"Diversion rejected, other reasons (BCL43: 4)"
+10040,List of objects capturing the type of a validation result,DMS12010,Authorization error: one-time authorization cannot be used anymore
+10040,List of objects capturing the type of a validation result,DMS11013,Relation error: AdditionalMesage refers to declaration in invalid state.
+10040,List of objects capturing the type of a validation result,EXMS0007,To many repetitions (BCL49: 35)
+10040,List of objects capturing the type of a validation result,DMS12024,Uniqueness error: non-unique item number
+10040,List of objects capturing the type of a validation result,TMSV0050,Quota critical
+10040,List of objects capturing the type of a validation result,TMSV0051,Quota blocked
+10040,List of objects capturing the type of a validation result,TMSV0049,Quota exhausted
+10040,List of objects capturing the type of a validation result,DMS11012,Relation error: element is not allowed to be amended through this additional message type
+10040,List of objects capturing the type of a validation result,DMS12001,Uniqueness error: non-unique combination of document type and reference
+10040,List of objects capturing the type of a validation result,EXMS0005,"Wrong field format (BCL49: 19, 37, 38, 39, 40)"
+10040,List of objects capturing the type of a validation result,TMSV0007,Duplicate value
+10040,List of objects capturing the type of a validation result,DMS12031,Sequence error: declaration already cleared
+10040,List of objects capturing the type of a validation result,CWM10002,The number of simplified Declarations submitted exceed the allowed range
+10040,List of objects capturing the type of a validation result,CWM10003,Data element missing value
+10040,List of objects capturing the type of a validation result,CWM10019,Request for Correction in Post Clearance Amendment contains invalid field changes
+10040,List of objects capturing the type of a validation result,CWM10022,Prelodged declaration already processed
+10040,List of objects capturing the type of a validation result,CWM11007,Relation error: differing submitters
+10040,List of objects capturing the type of a validation result,CWM10023,Wrong procedure category
+10040,List of objects capturing the type of a validation result,CWM10024,No matching procedure category between header parameter and declaration
+10040,List of objects capturing the type of a validation result,CWM10032,The Related Declaration provided is not in Registered State
+10040,List of objects capturing the type of a validation result,CWM20001,Please fill in headers (changeReasonCode and changeReasonText)
+10040,List of objects capturing the type of a validation result,CWM20002,Declaration Office ID is mandatory
+10040,List of objects capturing the type of a validation result,CWM20003,LRN is empty. Please fill in all the required fields.
+10040,List of objects capturing the type of a validation result,CWM10033,Procedure Category can not be derived due to invalid combination of procedures
+10040,List of objects capturing the type of a validation result,CWM10034,Relation error: Inconsistency between gross mass in Declaration and GoodItem level
+10040,List of objects capturing the type of a validation result,CWM10037,Relation error: The functionCode you have submitted does not correspond to your requests appropriate functionCode
+10040,List of objects capturing the type of a validation result,CWM10025,Export: Goods Export Status of related Exit Declaration Message cannot be null
+10040,List of objects capturing the type of a validation result,CWM10026,Export: Goods Export Status Type of related Exit Declaration Message is invalid
+10040,List of objects capturing the type of a validation result,CWM10027,Export: Domain Values of Exit Result Message are invalid
+10040,List of objects capturing the type of a validation result,CWM10028,Export: Goods Exit Status Date is invalid
+10040,List of objects capturing the type of a validation result,CWM10029,Export: Indicator or Description of Exit Control Result is invalid
+10040,List of objects capturing the type of a validation result,CWM10030,Export: Actual Office of Exit ID of Goods Export Status in Exit Declaration Message does not match the Customs Office ID in Exit Result Message
+10040,List of objects capturing the type of a validation result,CWM10031,Export: The relation between Overall Control Result and Goods Exit Status Type in Exit Result Message is not valid
+10040,List of objects capturing the type of a validation result,CWM12006,Authorization warning: invalid import/export license number
+10040,List of objects capturing the type of a validation result,CWM10035,Related goods or quantities are not available in Goods Accounting
+10040,List of objects capturing the type of a validation result,CWM10036,Procedure Category is not equivalent to the appropriate regime
+10040,List of objects capturing the type of a validation result,CWM10038,Authorization warning: Invalid Customs Office capability
+10040,List of objects capturing the type of a validation result,CWM10039,The Functional Reference ID maximum allowed length is 25 characters
+10040,List of objects capturing the type of a validation result,CWM10040,Referenced declaration does not exist
+10040,List of objects capturing the type of a validation result,CWM10041,Customs warehouse type is not accepted
+10040,List of objects capturing the type of a validation result,CWM10042,Consignment item is in incorrect processing state for requested operation
+10040,List of objects capturing the type of a validation result,CWM10043,Container identification number is not compliant to ISO6346 International Standard
+10040,List of objects capturing the type of a validation result,CWM20004,Exit Office ID is mandatory
+10040,List of objects capturing the type of a validation result,CWM10045,Declared goods for the reference Declaration have been discharged
+10040,List of objects capturing the type of a validation result,CWM10046,Relation error: The combination of Authorization Document and Application by means of Declaration is not allowed.
+10040,List of objects capturing the type of a validation result,CWM10047,Prerequisite error: invalid date
+10040,List of objects capturing the type of a validation result,PoUSW01,Warning: the proof is in status registered
+10040,List of objects capturing the type of a validation result,PoUSE02,Error: the proof has expired
+10040,List of objects capturing the type of a validation result,PoUSE03,Error: the proof was not found
+10040,List of objects capturing the type of a validation result,PoUSW04,Warning: the proof is partially used
+10040,List of objects capturing the type of a validation result,PoUSE05,Error: the proof is used
+10040,List of objects capturing the type of a validation result,PoUSE06,Error: service fault
+10040,List of objects capturing the type of a validation result,INFW01,Warning: the inf is available
+10040,List of objects capturing the type of a validation result,INFW02,Warning: the inf is processed
+10040,List of objects capturing the type of a validation result,INFE03,Error: the inf is annulled
+10040,List of objects capturing the type of a validation result,INFE04,Error: the inf is not available
+10040,List of objects capturing the type of a validation result,INFW05,Warning: the inf is completed
+10040,List of objects capturing the type of a validation result,INFE06,Error: service fault
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,BB,"Charges for construction, erection, assembly, maintenance or technical assistance undertaken after importation"
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,BC,Import duties or other charges payable in the Union for reason of the import or sale of goods
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,A2,Other additions to be apportioned by mass
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,A3,Other additions to be declared as percentage
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,A4,Other additions to be declared as percentage and apportioned by mass
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,A1,Insurance cost
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,AN,Additions based on a decision granted in accordance with Article 71 of Delegated Regulation (EU) 2015/2446
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,BD,Interest charges
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,BA,Costs of transport after arrival at the place of introduction
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,AH,"Engineering, development, artwork, design work and plans and sketches undertaken elsewhere than in the European Union and necessary for the production of the imported goods"
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,AL,Indirect payments and other payments (Article 70 of the code)
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,AI,Royalties and license fees
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,AF,"Tools, dies, moulds and similar items used in the production of the imported goods"
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,A5,Addition for VAT value only
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,AD,Containers and packing
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,AJ,"Proceeds of any subsequent resale, disposal or use accruing to the seller"
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,AE,"Materials, components, parts and similar items incorporated in the imported goods"
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,B3,Other deductions to be declared as percentage
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,AK,"Transport costs, loading and handling charges and insurance costs up to the place of introduction in the European Union"
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,AG,Materials consumed in the production of the imported goods
+10041,List of objects representing the type of a customs valuation element as defined in the UNTDED 5025 Monetary amount type code qualifier list,BF,Buying commissions
