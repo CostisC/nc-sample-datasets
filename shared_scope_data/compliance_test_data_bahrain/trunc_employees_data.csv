@@ -1,4 +1,4 @@
-branch_code,branch_name,employer_nationality,year,month,employees_nationality,GCC_employee_flag,expatriate,invoice_type,employees_per_employer_nationality,contributions,penalties
+branch_code,branch_name,employer_nationality,year,month,employees_nationality,GCC_employee_flag,expatriate,invoice_type,employees_per_employer_nat,contributions,penalties
 5541426733002, NexaCo,SAUDI ARABIA,2022,1,BAHRAIN,False,False,Private regular contributions,2,13451.52187619118,672.5760938095591
 5541426733002, NexaCo,SAUDI ARABIA,2022,2,BAHRAIN,False,False,Private regular contributions,1,12782.89732291344,639.144866145672
 5541426733002, NexaCo,SAUDI ARABIA,2022,3,BAHRAIN,False,False,Private regular contributions,2,11624.73955218477,581.2369776092386
